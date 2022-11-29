@@ -27,7 +27,7 @@ I built this IOT self-clean cat litter box with my friend to solve his "cat clea
 <br clear="left"/>
 
 ### BiliBili Self-Media
-<img src="ppt11.PNG" align="center" width=10%/>
+<img src="Images/ppt11.PNG" align="center" width=10%/>
 My secrect.
 
 <br clear="left"/>
