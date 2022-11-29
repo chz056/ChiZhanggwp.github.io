@@ -1,7 +1,7 @@
 # Chi Zhang
 ## About Me
 <img src="Images/wo3.jpg" align="left" width=40%/>
-Hi, my name is Chi Zhang. I am an international student from China. I came to the U.S. for high school at La Salle Institute, Troy, NY, because I wanted to discover a different world and look for new challenges. My Bachelor's degree was at the University of Illinois Urbana Champaign study in Electrical Engineering. Now, I’m a second-year Master's student at the University of California San Diego in the track of Intelligent Systems, Robotics & Control. My research interests mainly lie in the intersection between control, ML, and energy systems. 
+Hi, my name is Chi Zhang. I am an international student from China. I came to the U.S. for high school at La Salle Institute, Troy, NY, because I wanted to discover a different world and look for new challenges. My Bachelor's degree was at the University of Illinois Urbana Champaign study in Electrical Engineering. Now, I’m a second-year Master's student at the University of California San Diego in the track of Intelligent Systems, Robotics & Control. My research interests mainly lie in the intersection between control, ML, and energy systems. Here is my [**CV**.](https://drive.google.com/file/d/1I3_vFif8XwzDawf05r2ZB5wRXEQMk_Me/view?usp=sharing)
 
 <br clear="left"/>
 
@@ -14,7 +14,7 @@ The recent progress in reinforcement learning has made it possible to design con
 
 <br clear="left"/>
 
-*Related work*:
+**Related work**:
 Zhang, C., Shi, Y., & Chen, Y. (2022). BEAR: Physics-Principled Building Environment for Control and Reinforcement Learning. arXiv. https://doi.org/10.48550/arXiv.2211.14744
 
 ## Other
