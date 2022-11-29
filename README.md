@@ -3,8 +3,7 @@
 <img src="Images/wo3.jpg" align="left" width=40%/>
 Hi, my name is Chi Zhang. I am an international student from China. I came to the U.S. for high school at La Salle Institute, Troy, NY, because I wanted to discover a different world and look for new challenges. My Bachelor's degree was at the University of Illinois Urbana Champaign study in Electrical Engineering. Now, I’m a second-year Master's student at the University of California San Diego in the track of Intelligent Systems, Robotics & Control. My research interests mainly lie in the intersection between control, ML, and energy systems. 
 
-[**CV**](https://drive.google.com/file/d/1I3_vFif8XwzDawf05r2ZB5wRXEQMk_Me/view?usp=sharing)/[**Github**](https://github.com/chz056)/[**Email**](chz056@ucsd.edu)
-<br clear="left"/>
+[**CV**](https://drive.google.com/file/d/1I3_vFif8XwzDawf05r2ZB5wRXEQMk_Me/view?usp=sharing)/[**Github**](https://github.com/chz056)
 
 
 
